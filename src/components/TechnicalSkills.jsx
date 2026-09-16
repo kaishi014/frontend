@@ -653,9 +653,9 @@ const TechnicalSkills = () => {
               leading-relaxed
             "
           >
-            A comprehensive overview of my
-            programming languages, frameworks,
-            databases, and engineering concepts.
+            Gambaran menyeluruh tentang bahasa 
+            pemrograman, kerangka kerja, basis data, 
+            dan konsep rekayasa saya.
           </p>
         </div>
 

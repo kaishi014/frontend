@@ -1122,32 +1122,29 @@ const About = () => {
             />
 
             <p>
-              I am interested in the space
-              where thoughtful design and
-              practical engineering meet. I
-              like turning an early idea into
-              a clear experience that feels
-              useful, calm, and intentional.
+              Saya sangat tertarik menjelajahi
+              titik temu antara logika pemrograman, 
+              perangkat keras, dan konektivitas jaringan. 
+              Saya suka mengubah ide dan konsep dasar 
+              menjadi proyek nyata yang bermanfaat, 
+              terstruktur, serta berfungsi dengan baik.
             </p>
 
             <p>
-              My approach is hands-on:
-              understand the problem, shape
-              the structure, build carefully,
-              and keep improving the details
-              that make a product easier to
-              use. I value readable work,
-              strong collaboration, and
-              interfaces that communicate
-              without unnecessary noise.
+              Pendekatan saya berbasis praktik langsung 
+              (hands-on): memahami masalah, merancang solusi, 
+              membangun sistem dengan teliti, dan terus mengasah 
+              detail teknisnya. Saya sangat menghargai alur kerja 
+              yang rapi, kolaborasi yang kuat, serta teknologi 
+              yang dapat mempermudah aktivitas sehari-hari.
             </p>
 
             <p>
-              Outside the code itself, I enjoy
-              the visual side of digital work:
-              pacing, composition, motion, and
-              the small interactions that give
-              a project its character.
+              Di luar aktivitas teknis, saya juga menyukai 
+              sisi visual dan pengalaman pengguna (user experience): 
+              bagaimana sebuah antarmuka dirancang, bagaimana data 
+              mengalir, serta detail-detail kecil yang memberikan 
+              karakter unik pada setiap proyek yang saya buat.
             </p>
 
           </div>

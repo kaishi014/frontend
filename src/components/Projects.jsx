@@ -35,8 +35,8 @@ const Projects = () => (
     <div className="relative z-10 mx-auto max-w-7xl">
       <div data-aos="fade-up" className="mb-14 max-w-3xl md:mb-18">
         <span className="inline-block rounded-full border border-slate-300 bg-white px-5 py-1.5 text-sm font-bold text-slate-600 shadow-sm">Featured Projects</span>
-        <h2 className="mt-7 text-4xl font-black leading-[1.05] tracking-tight text-slate-900 md:text-6xl">Work that speaks for itself</h2>
-        <p className="mt-5 max-w-xl text-base font-medium leading-relaxed text-slate-600 md:text-lg">A focused selection of work built around clear interfaces, thoughtful interaction, and practical digital experiences.</p>
+        <h2 className="mt-7 text-4xl font-black leading-[1.05] tracking-tight text-slate-900 md:text-6xl">Karya yang berbicara dengan sendirinya</h2>
+        <p className="mt-5 max-w-xl text-base font-medium leading-relaxed text-slate-600 md:text-lg">Koleksi karya pilihan yang berfokus pada antarmuka yang bersih, interaksi yang terkonsep, dan pengalaman digital yang praktis.</p>
       </div>
       <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
         {projects.map((project, index) => <ProjectCard key={project.id} project={project} index={index} />)}

@@ -43,7 +43,7 @@ export const heroContent = {
     "Software Developer",
   ],
   subtitle:
-    "I build considered digital experiences with a clean, modern point of view.",
+    "Saya membangun pengalaman digital terkonsep dengan sudut pandang yang bersih dan modern.",
   ctaPrimary: { text: "View My Work", href: "#projects" },
   ctaSecondary: {
     text: "Contact Me",
@@ -54,41 +54,41 @@ export const heroContent = {
 
 export const aboutContent = {
   heading: "Hello!",
-  bio: `Hi, my name is <span class="text-slate-900 text-xl font-black mx-1 tracking-wide uppercase">ARRAFFI</span>. I care about building clear, useful, and refined digital products.`,
+  bio: `Halo, nama saya <span class="text-slate-900 text-xl font-black mx-1 tracking-wide uppercase">ARRAFFI</span>.. Saya seorang pelajar yang memiliki ketertarikan mendalam dalam dunia teknologi, khususnya coding, robotik, dan networking.`,
   techStack: ["Java", "Spring Boot", "MERN Stack"],
 };
 
 export const skillsContent = {
   badge: "MY PROCESS",
-  heading: "How I Build",
+  heading: "Bagaimana Saya Membangun",
   description:
-    "From a simple idea to a polished digital experience — I combine development, design, and creative thinking at every stage.",
+    "Dari ide sederhana menjadi pengalaman digital yang matang — saya memadukan pengembangan, desain, dan pemikiran kreatif di setiap tahapan.",
   cards: [
     {
       number: "01",
-      title: "Understand",
-      text: "I start by understanding the idea, the problem, and what the final experience should achieve. I break the idea into clear goals before writing code.",
+      title: "Pahami",
+      text: "Saya mulai dengan memahami ide, masalah, dan apa yang ingin dicapai dari pengalaman akhir. Saya memecah ide menjadi tujuan yang jelas sebelum menulis kode.",
       keywords: ["Idea", "Goals", "Requirements"],
       icon: "understand",
     },
     {
       number: "02",
       title: "Design",
-      text: "I shape the experience before building it — thinking about layout, visual hierarchy, interactions, and responsive behavior. I use tools like Figma to explore and refine the interface.",
+      text: "Saya membentuk pengalaman sebelum membangunnya — memikirkan layout, hierarki visual, interaksi, dan perilaku responsif. Saya menggunakan alat seperti Figma untuk mengeksplorasi dan menyempurnakan antarmuka.",
       keywords: ["UI/UX", "Figma", "Layout", "Interaction"],
       icon: "design",
     },
     {
       number: "03",
       title: "Build",
-      text: "I turn the design into a real product using modern web technologies. I focus on clean structure, responsive interfaces, reusable components, and solving problems along the way.",
+      text: "Saya mengubah desain menjadi produk nyata menggunakan teknologi web modern. Saya fokus pada struktur yang bersih, antarmuka responsif, komponen yang dapat digunakan kembali, dan menyelesaikan masalah di sepanjang jalan.",
       keywords: ["Frontend", "Backend", "Components", "Code"],
       icon: "build",
     },
     {
       number: "04",
       title: "Refine",
-      text: "After the first version works, I test, improve, polish the details, and make the experience feel smoother. I care about performance, responsiveness, animations, and the small details that make a product feel complete.",
+      text: "Setelah versi pertama berfungsi, saya menguji, meningkatkan, merawat detail, dan membuat pengalaman terasa lebih halus. Saya peduli pada kinerja, responsivitas, animasi, dan detail kecil yang membuat produk terasa lengkap.",
       keywords: ["Testing", "Performance", "Animation", "Polish"],
       icon: "refine",
     },
@@ -257,28 +257,36 @@ export const leadershipList = [
 // Brand New Internships Data
 export const internshipsList = [
   {
-    organization: "Independent",
-    role: "Personal Projects",
+    organization: "Ketua Sekbid 3",
+    role: "OSIS & Leadership",
     duration: "2024 - Present",
-    skills: ["Full Stack Development", "Frontend Development", "UI/UX", "Problem Solving"],
-    tech: ["React", "JavaScript", "HTML", "CSS", "Figma", "Git / GitHub"],
-    badge: "Personal",
+    skills: ["Public speaking", "Komunikasi", "Kerja Sama Tim", "Problem Solving"],
+    tech: ["Excel", "PowerPoint", "Internet", "Medsos", "Canva", "world"],
+    badge: "Organisasi",
   },
   {
-    organization: "Freelance",
-    role: "Freelance Developer",
+    organization: "Ketua Pokja",
+    role: "Tim Adiwiyata",
     duration: "2024 - Present",
-    skills: ["Web Development", "Feature Implementation", "Bug Fixing", "UI/UX Improvement"],
-    tech: ["React", "JavaScript", "HTML", "CSS"],
-    badge: "Freelance",
+    skills: ["Pengelolaan Program & Lingkungan", "Kerja Sama Tim & Responsivitas", "Kesadaran Ekologis & Edukasi Publik", "Perencanaan & Eksekusi Kegiatan"],
+    tech: ["Google Workspace", "Canva", "Spreadsheet", "Calendar"],
+    badge: "Organisasi",
   },
   {
-    organization: "Web Development Internship",
-    role: "Web Developer Intern",
+    organization: "FRONTEND DEVELOPER",
+    role: "Programming Experience",
     duration: "2024 - Present",
-    skills: ["Web Development", "Frontend Development", "Responsive Interfaces", "Team Collaboration"],
-    tech: ["React", "JavaScript", "HTML", "CSS"],
-    badge: "Internship",
+    skills: ["Frontend","Modern Web Architecture", "UI/UX Design","Logical Thinking", "Responsive Interfaces", "Team Collaboration"],
+    tech: ["React", "JavaScript", "HTML","GitHub","Git","VSCODE","Deploy", "CSS3"],
+    badge: "Personal Project",
+  },
+  {
+    organization: "PARTICIPANT & DELEGATE",
+    role: "Competitions, Seminars & Workshops",
+    duration: "2024 - Present",
+    skills: ["Wawasan Industri","Tren Teknologi Terbaru","Pemecahan Masalah","Berpikir Kritis","Networking","Relasi","Manajemen waktu","Disiplin","Public Speaking"],
+    tech: ["ZOOM","Google Meet","Canva","PowerPoint","IOT","AI Tools"],
+    badge: "EVENTS & COMPETITIONS",
   }
 ];
 
@@ -301,7 +309,7 @@ export const projects = [
     badge: "Personal Portfolio",
     title: "SpiderMan Porto",
     description:
-      "SpiderMan Porto adalah platform web portofolio personal bertema Spider-Man yang dirancang untuk menampilkan perjalanan profesional, pencapaian, dan momen berharga secara kreatif serta interaktif. Mengusung elemen visual khas pahlawan super—mulai dari skema warna yang ikonik, efek jaring web, hingga antarmuka yang dinamis—website ini menjadi wadah terpadu untuk memamerkan seluruh koleksi sertifikat, dokumentasi proyek, serta galeri moments penting. Lewat kombinasi desain yang ekspresif dan pengalaman pengguna (user experience) yang intuitif, SpiderMan Porto menghadirkan cara yang unik, menarik, dan berkesan bagi pengunjung untuk menjelajahi rekam jejak serta keahlian saya.",
+      "SpiderMan Porto adalah platform web portofolio personal bertema Spider-Man yang dirancang untuk menampilkan rekam jejak, sertifikat, dan momen berharga melalui antarmuka yang unik dan interaktif. Proyek ini dibuat untuk memberikan pengalaman yang menyenangkan bagi pengunjung dalam menjelajahi pencapaian, galeri momen, dan informasi profesional saya.",
     techTags: ["HTML", "JavaScript", "CSS3"],
     image: stockdzImage,
     links: {
