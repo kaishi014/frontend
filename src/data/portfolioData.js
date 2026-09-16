@@ -1,6 +1,6 @@
 import stockdzImage from '../assets/stockdz.png';
-import hangmanImage from '../assets/hangman.png';
-import portfolioImage from '../assets/prt.png';
+import hangmanImage from '../assets/siswa hub2.png';
+import portfolioImage from '../assets/kalkulator.png';
 
 // ============================================================
 // portfolioData.js — Centralized configuration for ARRAFFI's Portfolio
@@ -203,54 +203,54 @@ export const contentCreation = {
 // Beyond Code journey data
 export const leadershipList = [
   {
-    category: "EDUCATION",
-    title: "Computer Science",
-    description: "I'm studying Computer Science at USTHB, building a strong foundation in programming, problem solving, algorithms, data structures, databases, and software development.",
-    label: "USTHB",
+    category: "PENDIDIKAN",
+    title: "Siswa Aktif",
+    description: "Fokus mendalami ilmu di sekolah sambil aktif membangun fondasi dalam berorganisasi, manajemen waktu, dan pengembangan logika lewat proyek teknologi.",
+    label: "PELAJAR",
     motif: "brackets"
   },
   {
-    category: "BUILDING",
-    title: "Personal Projects",
-    description: "I learn by building. My personal projects give me a space to experiment with ideas, improve my development skills, and turn concepts into real digital experiences.",
-    label: "BUILD • LEARN • IMPROVE",
-    link: "#projects",
+    category: "ORGANISASI",
+    title: "Pengalaman Pengurus",
+    description: "Aktif berkontribusi dalam organisasi sekolah seperti OSIS dan Tim Adiwiyata untuk mengasah kepemimpinan, kerja sama tim, dan kepedulian lingkungan.",
+    label: "ORGANISASI • KEPEMIMPINAN",
     motif: "layers"
   },
   {
-    category: "WORK",
-    title: "Freelance Developer",
-    description: "Working on real development tasks has helped me improve how I approach problems, implement features, fix issues, and turn requirements into working solutions.",
-    label: "WEB DEVELOPMENT",
+    category: "PROYEK KREATIF",
+    title: "Pengembangan Aplikasi Siswa",
+    description: "Belajar lewat praktik langsung dengan membuat aplikasi produktivitas siswa seperti Siswa Hub dan tools kalkulator untuk membantu kegiatan belajar harian.",
+    label: "BELAJAR • KARYA • INOVASI",
+    link: "#projects",
     motif: "cursor"
   },
   {
-    category: "CREATIVE",
-    title: "UI/UX & Visual Design",
-    description: "I enjoy exploring UI/UX, visual composition, and interface design. I like turning ideas into clean, intuitive experiences where design and functionality work together.",
-    tools: ["Figma", "UI/UX", "Visual Design"],
+    category: "DESAIN",
+    title: "UI/UX & Desain Grafis",
+    description: "Eksplorasi pembuatan antarmuka aplikasi dan materi visual organisasi yang bersih, rapi, serta mudah digunakan oleh sesama siswa.",
+    tools: ["Figma", "Canva", "UI/UX Design"],
     motif: "layout"
   },
   {
-    category: "MOTION",
-    title: "Creative Editing & Motion",
-    description: "I also explore creative editing, motion, transitions, and visual storytelling. It gives me another way to experiment with timing, composition, and interaction.",
-    areas: ["After Effects", "Photoshop", "Motion", "Visual Editing"],
+    category: "KEGIATAN",
+    title: "Lomba, Seminar & Workshop",
+    description: "Gemar mengikuti berbagai kompetisi teknologi dan seminar untuk memperluas wawasan, mengasah ide, serta memperluas jaringan pertemanan.",
+    areas: ["Kompetisi", "Workshop", "Seminar Tech"],
     motif: "motion"
   },
   {
-    category: "EXPLORATION",
-    title: "3D & Visualization",
-    description: "I explore 3D modeling, rendering, and visualization as another part of my creative side, combining technical thinking with visual experimentation.",
-    areas: ["3D Modeling", "Rendering", "Visualization"],
-    motif: "cube"
+    category: "PENGEMBANGAN DIRI",
+    title: "Selalu Belajar & Beradaptasi",
+    description: "Terus mengeksplorasi skill baru, baik soft skill maupun hard skill, untuk mendukung prestasi akademik, efektivitas organisasi, dan proyek pribadi.",
+    label: "BELAJAR → MENGABDI → BERKARYA",
+    motif: "orbit"
   },
   {
-    category: "GROWTH",
-    title: "Always Learning",
-    description: "I continuously explore new technologies, development techniques, design ideas, and creative tools. Learning, experimenting, and building are a constant part of my journey.",
-    label: "LEARN → EXPERIMENT → BUILD",
-    motif: "orbit"
+  category: "EKSTRAKURIKULER",
+  title: "Aktif dalam Komunitas Sekolah",
+  description: "Terlibat aktif dalam kegiatan ekstrakurikuler untuk mengasah minat, membangun kedisiplinan, serta memperluas kolaborasi antar sesama siswa.",
+  label: "EKSKUL • KOLABORASI",
+  motif: "motion"
   }
 ];
 
@@ -292,14 +292,46 @@ export const internshipsList = [
 
 // Brand New Soft Skills Data
 export const softSkillsList = [
-  { name: "Leadership", icon: "leadership", desc: "Guiding teams, managing tasks, and driving project completion with shared vision." },
-  { name: "Public Speaking", icon: "speaking", desc: "Confident stage presence, anchoring summits, and delivering articulate technical ideas." },
-  { name: "Team Collaboration", icon: "collaboration", desc: "Collaborating across fields, building racing carts, and engineering code in sync." },
-  { name: "Communication", icon: "communication", desc: "Clear, concise, and structured interactions in both business and technical contexts." },
-  { name: "Problem Solving", icon: "problem-solving", desc: "Breaking down complex engineering tasks into clean, logical, and modular pieces." },
-  { name: "Adaptability", icon: "adaptability", desc: "Quick to pick up new frameworks like FastAPI, Spring Boot, or automation tools like n8n." },
-  { name: "Creativity", icon: "creativity", desc: "Blending cinematic aesthetics with software structure to build premium experiences." },
-  { name: "Time Management", icon: "time", desc: "Balancing B.Tech studies, event hosting, and developing robust software platforms." }
+  { 
+    name: "Leadership", 
+    icon: "leadership", 
+    desc: "Membimbing tim, mengelola tugas, dan mendorong penyelesaian proyek dengan visi bersama." 
+  },
+  { 
+    name: "Public Speaking", 
+    icon: "speaking", 
+    desc: "Tampil percaya diri di atas panggung, memandu acara besar, dan menyampaikan gagasan teknis secara lugas." 
+  },
+  { 
+    name: "Team Collaboration", 
+    icon: "collaboration", 
+    desc: "Berkolaborasi lintas bidang, merakit gokart balap, dan merancang kode secara terintegrasi." 
+  },
+  { 
+    name: "Communication", 
+    icon: "communication", 
+    desc: "Berkomunikasi secara jelas, ringkas, dan terstruktur baik di lingkungan bisnis maupun teknis." 
+  },
+  { 
+    name: "Problem Solving", 
+    icon: "problem-solving", 
+    desc: "Memecahkan tantangan rekayasa yang rumit menjadi bagian-bagian yang bersih, logis, dan modular." 
+  },
+  { 
+    name: "Adaptability", 
+    icon: "adaptability", 
+    desc: "Cepat menguasai *framework* baru seperti FastAPI, Spring Boot, maupun alat otomatisasi seperti n8n." 
+  },
+  { 
+    name: "Creativity", 
+    icon: "creativity", 
+    desc: "Memadukan estetika sinematik dengan struktur *software* untuk menciptakan pengalaman visual yang premium." 
+  },
+  { 
+    name: "Time Management", 
+    icon: "time", 
+    desc: "Menyeimbangkan studi, memandu berbagai acara, dan mengembangkan platform *software* yang andal." 
+  }
 ];
 
 export const projects = [
@@ -319,32 +351,32 @@ export const projects = [
     isFlagship: false,
   },
   {
-    id: "hangman",
+    id: "siswa-hub",
     number: "02",
-    badge: "Interactive Game",
-    title: "Hangman",
+    badge: "Web Application",
+    title: "Siswa Hub",
     description:
-      "Hangman is an interactive word-guessing game where players try to discover the hidden word before running out of attempts. The project focuses on simple gameplay, responsive interaction, and a clean user experience.",
-    techTags: ["JavaScript", "HTML", "CSS3"],
+      "Siswa Hub adalah platform manajemen belajar personal yang membantu siswa mencatat PR, melihat jadwal pelajaran, dan membuat catatan cepat. Dilengkapi riwayat tugas serta penyimpanan berkas berbasis Local Storage untuk akses data yang aman dan cepat tanpa internet.",
+    techTags: ["React", "JavaScript", "HTML", "CSS", "Local Storage API"],
     image: hangmanImage,
     links: {
       github: null,
-      demo: "https://hangman-aminecodes.netlify.app/",
+      demo: "https://kaishi014.github.io/Ar-RaffiArdhiansyah/siswa.html",
     },
     isFlagship: false,
   },
   {
     id: "portfolio",
     number: "03",
-    badge: "Personal Platform",
-    title: "Portfolio",
+    badge: "UTILITY APP",
+    title: "Kalkulator",
     description:
-      "A modern personal portfolio website designed to showcase projects, technical skills, experience, and professional information through a clean and responsive interface.",
-    techTags: ["React.js", "Vite", "JavaScript", "CSS3", "Font Awesome / Boxicons", "Scroll animations"],
+      "Aplikasi kalkulator serbaguna berbasis web yang mendukung berbagai mode perhitungan (Standar, Sains, Keuangan, dan Konverter). Dilengkapi panel riwayat perhitungan (calculation history), fungsionalitas hapus data, serta opsi tema tampilan (Dark/Light Mode).",
+    techTags: ["React", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
     image: portfolioImage,
     links: {
       github: null,
-      demo: "https://saboo24.github.io/Portfolio11/",
+      demo: "https://kaishi014.github.io/Ar-RaffiArdhiansyah/kalkulator.html",
     },
     isFlagship: false,
   },

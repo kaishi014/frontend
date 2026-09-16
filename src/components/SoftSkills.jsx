@@ -57,13 +57,13 @@ const SoftSkills = () => {
           <div className="inline-block border border-gray-300 rounded-full px-5 py-1.5 text-sm text-gray-600 font-bold mb-6 shadow-sm bg-white">
             Core Competencies
           </div>
-          <h2 className="text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4 uppercase">
-            Professional Soft Skills
-          </h2>
-          <p className="text-gray-500 text-base md:text-lg max-w-lg mx-auto leading-relaxed">
-            Essential traits that make me an effective engineer, coordinator, and communicator.
-          </p>
-        </div>
+              <h2 className="text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4 uppercase">
+               Soft Skills & Karakter
+              </h2>
+                <p className="text-gray-500 text-base md:text-lg max-w-lg mx-auto leading-relaxed">
+                  Karakter dan kemampuan interpersonal yang mendukung saya dalam berorganisasi, belajar, dan berkolaborasi.
+                </p>
+          </div>
 
         {/* Soft Skills Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">

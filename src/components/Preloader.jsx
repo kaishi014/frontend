@@ -200,7 +200,7 @@ const Preloader = () => {
               md:top-14
             "
           >
-            ARRAFFI_CODES
+            ARRAFFI_144
           </motion.div>
 
           {/* =================================================
