@@ -296,42 +296,42 @@ export const softSkillsList = [
   { 
     name: "Leadership", 
     icon: "leadership", 
-    desc: "Membimbing tim, mengelola tugas, dan mendorong penyelesaian proyek dengan visi bersama." 
+    desc: "Membimbing tim, mengelola tugas kelompok, dan mendorong penyelesaian kegiatan sekolah dengan visi bersama." 
   },
   { 
     name: "Public Speaking", 
     icon: "speaking", 
-    desc: "Tampil percaya diri di atas panggung, memandu acara besar, dan menyampaikan gagasan teknis secara lugas." 
+    desc: "Tampil percaya diri di depan umum, memandu acara sekolah, dan menyampaikan gagasan secara jelas serta terstruktur." 
   },
   { 
     name: "Team Collaboration", 
     icon: "collaboration", 
-    desc: "Berkolaborasi lintas bidang, merakit gokart balap, dan merancang kode secara terintegrasi." 
+    desc: "Bekerja sama secara efektif dalam tim, saling mendukung antaranggota, dan menyelesaikan tugas kelompok dengan solid." 
   },
   { 
     name: "Communication", 
     icon: "communication", 
-    desc: "Berkomunikasi secara jelas, ringkas, dan terstruktur baik di lingkungan bisnis maupun teknis." 
+    desc: "Berkomunikasi secara lancar, santun, dan responsif baik kepada guru, sesama siswa, maupun dalam organisasi." 
   },
   { 
     name: "Problem Solving", 
     icon: "problem-solving", 
-    desc: "Memecahkan tantangan rekayasa yang rumit menjadi bagian-bagian yang bersih, logis, dan modular." 
+    desc: "Menganalisis tantangan belajar dan organisasi untuk menemukan solusi yang praktis, logis, dan efektif." 
   },
   { 
     name: "Adaptability", 
     icon: "adaptability", 
-    desc: "Cepat menguasai *framework* baru seperti FastAPI, Spring Boot, maupun alat otomatisasi seperti n8n." 
+    desc: "Cepat menyesuaikan diri dengan lingkungan baru, materi pelajaran baru, serta perubahan dinamika dalam tim." 
   },
   { 
     name: "Creativity", 
     icon: "creativity", 
-    desc: "Memadukan estetika sinematik dengan struktur *software* untuk menciptakan pengalaman visual yang premium." 
+    desc: "Mengembangkan ide-ide segar dan tampilan visual yang menarik untuk tugas sekolah, presentasi, serta materi organisasi." 
   },
   { 
     name: "Time Management", 
     icon: "time", 
-    desc: "Menyeimbangkan studi, memandu berbagai acara, dan mengembangkan platform *software* yang andal." 
+    desc: "Menyeimbangkan jadwal akademik, aktivitas organisasi seperti OSIS, Adiwiyata & eskul serta tugas pribadi secara teratur." 
   }
 ];
 

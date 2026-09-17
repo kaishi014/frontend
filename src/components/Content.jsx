@@ -208,7 +208,7 @@ const Contact = () => {
               <br />
 
               <span className="relative inline-block">
-                meaningful.
+                impactful.
 
                 <span
                   className="
@@ -241,8 +241,8 @@ const Contact = () => {
                 md:text-lg
               "
             >
-              Have an idea, a project, or just want to connect?
-              Feel free to reach out.
+              Punya ide proyek, ingin berkolaborasi dalam kegiatan sekolah, atau sekadar ingin berdiskusi? 
+              Jangan ragu untuk menghubungi saya.
             </p>
 
             {/* Available */}
@@ -270,7 +270,7 @@ const Contact = () => {
               />
 
               <span>
-                ARRAFFI / AVAILABLE FOR NEW PROJECTS
+                ARRAFFI / OPEN FOR COLLABORATION
               </span>
             </div>
 
