@@ -11,8 +11,8 @@ const Footer = () => {
     {
       label: 'whatsapp',
       href:
-        socialLinks?.whatsapp ||
-        'https://whatsapp.com/channel/0029VbCzsgDHLHQQJesW7M3b',
+        socialLinks?.nwhatsapp ||
+        'https://wa.me/6283878085393',
     },
     {
       label: 'Email',
@@ -105,7 +105,7 @@ const Footer = () => {
                 hover:scale-105
               "
             >
-              A
+              AR
             </div>
 
             <div>

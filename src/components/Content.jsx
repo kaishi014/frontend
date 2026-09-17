@@ -332,9 +332,9 @@ const Contact = () => {
                 </a>
               )}
               {/* Whatsapp */}
-              {socialLinks?.whatsapp && (
+              {socialLinks?.nwhatsapp && (
                 <a
-                  href={socialLinks.whatsapp}
+                  href={socialLinks.nwhatsapp}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="whatsapp"

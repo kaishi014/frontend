@@ -26,9 +26,10 @@ export const personalInfo = {
 
 export const socialLinks = {
   github: "https://github.com/kaishi014",
+  nwhatsapp: "https://wa.me/6283878085393",
   whatsapp: "https://whatsapp.com/channel/0029VbCzsgDHLHQQJesW7M3b",
   instagram: "https://www.instagram.com/kaishi014/",
-  tiktok: "https://tiktok.com/@hikari_144?si=JWlCDvYc3dpRUw21",
+  youtube: "https://youtube.com/@HIKARI_144",
   discord: "https://discord.gg/mBYyDnJA",
 };
 
